@@ -5,3 +5,5 @@
 4. [Default Parameters](https://github.com/kow3388/react_learning/tree/main/default_parameters)
 5. [Spread and Rest Operator](https://github.com/kow3388/react_learning/tree/main/spread_and_rest)
 6. [Object](https://github.com/kow3388/react_learning/tree/main/object)
+7. [Class](https://github.com/kow3388/react_learning/tree/main/class)
+8. [Destructuring assignment](https://github.com/kow3388/react_learning/tree/main/destructuring_assignment)
