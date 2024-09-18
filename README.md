@@ -7,3 +7,4 @@
 6. [Object](https://github.com/kow3388/react_learning/tree/main/object)
 7. [Class](https://github.com/kow3388/react_learning/tree/main/class)
 8. [Destructuring assignment](https://github.com/kow3388/react_learning/tree/main/destructuring_assignment)
+9. [Module](https://github.com/kow3388/react_learning/tree/main/module)
